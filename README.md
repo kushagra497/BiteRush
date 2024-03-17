@@ -16,6 +16,8 @@ ByteRush is an AI-powered food subscription service that delivers healthy and pe
 1. Clone the repository.
 2. Open the index.html file in your web browser to view the ByteRush website.
 
+## ScreenShots
+![Screenshot (779)](https://github.com/kushagra497/BiteRush/assets/125078546/e2829d76-1d00-446f-a40a-332a1bf14a10)
 
 ## Credits
 
